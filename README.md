@@ -1,7 +1,7 @@
 # kmc3-docker
 Docker image for kmc3
 
-Docker image containing a full BUSCO install
+Docker image containing a running version of kmc v3
 
 The image contains a full install of [kmc](http://sun.aei.polsl.pl/REFRESH/index.php?page=projects&project=kmc&subpage=about), including all necessary dependencies. I am not part of the kmc team - I just made this image.
 
